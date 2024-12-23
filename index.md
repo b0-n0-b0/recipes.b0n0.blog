@@ -1,2 +1,2 @@
 # Recipes:
-- [/ricette/Befanini.md](Befanini)
+- [Befanini](/ricette/Befanini.md)
